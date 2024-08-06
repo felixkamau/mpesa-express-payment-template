@@ -1,4 +1,4 @@
-Here’s a README template for your M-Pesa Express API project:
+Template code for M-pesa daraja-api
 
 ---
 
